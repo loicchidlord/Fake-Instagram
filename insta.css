@@ -1,0 +1,151 @@
+body
+{
+	background-color: #fafafa;
+}
+
+.main
+{
+	height: 416px;
+	border: solid #f4f4f4 3px;
+	width: 23%;
+	margin: 0 auto;
+	margin-top: 100px;
+	background-color: #ffffff;
+}
+
+.titre
+{
+	text-align: center;
+	/*border: solid black 1px;*/
+	margin: 0 auto;
+	font-family: billabong;
+	font-size: 60px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+.sign
+{
+	width: 23%;
+	margin: 0 auto;
+	margin-top: 10px;
+	height: 55px;
+	border: solid #f4f4f4 3px;
+	background-color: #ffffff;
+	text-align: center;
+}
+
+.psign
+{
+	font-family: Segoe UI;
+}
+
+.download
+{
+	width: 23%;
+	margin: 0 auto;
+	margin-top: 10px;
+	height: 55px;
+	border: solid #f4f4f4 3px;
+	background-color: #ffffff;
+	text-align: center;
+}
+
+.pdown
+{
+	font-family: Segoe UI;
+	font-size: 14px;
+}
+
+input
+{
+	width: 69%;
+	height: 30px;
+	background: #e0dede;
+	justify-content: center;
+	display: flex;
+	margin: 5px auto;
+	padding: 10px;
+	border: none;
+	outline: none;
+	border-radius: 4px;
+	background-color: #fafafa;
+}
+
+.conn
+{
+	width: 75%;
+	height: 40px;
+	background-color: #0095f6;
+	font-family: Segoe UI;
+	color: white;
+	margin-top: 15px;
+}
+
+.traits
+{
+	margin-top: 15px;
+	width: 69%;
+	margin: 0 auto;
+	border: solid red 2px;
+	height: 30px;
+}
+
+.h1
+{
+	font-size: 14px;
+	font-weight: lighter;
+	font-family: Segoe UI;
+	color: #e0dede;
+}
+
+.logo
+{
+	display: inline-flex;
+}
+
+.texte
+{
+	font-family: Segoe UI;
+	display: inline-flex;
+	padding-left: 16px;
+	color: #496da7
+}
+
+.img
+{
+	height: 25px;
+	width: 25px;
+}
+
+.fb
+{
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+#fb
+{
+	color: #496da7;
+}
+
+.fmdp
+{
+	margin: 0 auto;
+	width: 69%;
+	text-align: center;
+	color: #496da7;
+	font-family: Segoe UI;
+	margin-top: 22px;
+}
